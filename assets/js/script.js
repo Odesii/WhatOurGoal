@@ -66,6 +66,7 @@ function renderTaskList() {
         } else if (taskList[i].status === "done"){
             doneList.append(createTaskCard(taskList[i]));
         }
+        console.log(taskList)
     }
 
         $(".draggable").draggable({
@@ -149,7 +150,7 @@ function handleDrop(event, ui) {
             
         }
         }
-        localStorage.setItem("task", JSON.stringify(taskList));
+        localStorage.setItem("tasks", JSON.stringify(taskList));
         renderTaskList();
 
 
