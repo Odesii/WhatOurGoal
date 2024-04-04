@@ -2,7 +2,12 @@
 
 ## Description
 
-    Ever feel like you're juggling more tasks than a goblin in an overlord's treasure vault? **WhatOurGoal** is your savior from the daily tyranny of to-do lists longer than a dragon's tail. Crafted in the fiery forges of web technology, this cunningly simple app is your stalwart shield-bearer in the battle against the chaos of commitments. Whether it's pillaging deadlines or raiding the pantry, our system keeps your conquests as organized as a hoarder's loot pile. Let's face it: life's a dungeon crawl, and you're the underdog hero. With date-tagged tasks, **WhatOurGoal** is the battle plan you need to outsmart the dark lords of disorganization.
+    Ever feel like you're juggling more tasks than a goblin in an overlord's treasure vault?
+    **WhatOurGoal** is your savior from the daily tyranny.
+    Crafted in the fiery forges of web technology, this cunningly simple app is your stalwart shield-bearer in the battle against the chaos of commitments.
+    Whether it's pillaging deadlines or raiding the pantry, our system keeps your conquests as organized as a hoarder's loot pile. 
+    Let's face it: life's a dungeon crawl, and you're the underdog hero. 
+    With date-tagged tasks, **WhatOurGoal** is the battle plan you need to outsmart the dark lords of disorganization.
 
 ## Link
 
